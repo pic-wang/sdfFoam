@@ -1,5 +1,5 @@
 # sdfFoam
-A simple OpenFOAM solver for calculating the sign distance function (SDF) on given mesh based on a defined patch.
+A simple OpenFOAM solver for calculating the sign distance function (SDF) on given mesh based on the pre-defined patch.
 - Version: Compatible with OpenFOAM7 (WSL2)
 ## Example: 
 ### Calculate the distance from the grid to the surface of the square cylinder.
@@ -11,7 +11,7 @@ A simple OpenFOAM solver for calculating the sign distance function (SDF) on giv
 
 ## Usage
 ### 1. Download the source code
-- `git clone https://github.com/picpic117/sdfFoam.git`
+- `git clone https://github.com/pic-wang/sdfFoam.git`
 
 ### 2. To use sdfFoam, follow these steps:
 
